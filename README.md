@@ -1,5 +1,5 @@
-## Run project
+## Run project in development mode
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
